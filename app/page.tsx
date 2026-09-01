@@ -1,4 +1,5 @@
 import Nav from "@/components/Nav";
+import Hero from "@/components/Hero";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -10,7 +11,9 @@ export default function Home() {
 
       <Nav />
 
-      <main id="main">{/* section components are added here task-by-task */}</main>
+      <main id="main">
+        <Hero />
+      </main>
 
       <Footer />
     </>
