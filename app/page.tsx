@@ -4,6 +4,7 @@ import About from "@/components/About";
 import Experience from "@/components/Experience";
 import AIHighlights from "@/components/AIHighlights";
 import Skills from "@/components/Skills";
+import Credentials from "@/components/Credentials";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -21,6 +22,7 @@ export default function Home() {
         <Experience />
         <AIHighlights />
         <Skills />
+        <Credentials />
       </main>
 
       <Footer />
