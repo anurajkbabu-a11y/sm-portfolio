@@ -188,6 +188,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# subagent-driven-development scratch workspace (ledger, briefs, reports)
+.superpowers/
 ```
 
 - [ ] **Step 7: Create `app/globals.css`**
