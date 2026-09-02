@@ -26,7 +26,7 @@ export const hero = {
     { label: "Experience", value: "16+ years" },
     { label: "Certifications", value: "PMP · CSM" },
     { label: "Agile Frameworks", value: "SAFe · PI Planning · RTE Collaboration" },
-    { label: "Domain", value: "Financial Services Digital Transformation" },
+    { label: "Domain", value: "Insurance, Retail, Cloud — Financial Services Digital Transformation" },
   ],
 };
 

@@ -14,18 +14,27 @@ export default function Nav() {
         <a href="#top" className="font-mono text-sm font-bold text-slate-900">
           Anuraj K B
         </a>
-        <ul className="flex flex-wrap items-center gap-6">
-          {links.map((link) => (
-            <li key={link.href}>
-              <a
-                href={link.href}
-                className="text-sm font-semibold text-slate-600 hover:text-teal-700"
-              >
-                {link.label}
-              </a>
-            </li>
-          ))}
-        </ul>
+        <div className="flex flex-wrap items-center gap-6">
+          <ul className="flex flex-wrap items-center gap-6">
+            {links.map((link) => (
+              <li key={link.href}>
+                <a
+                  href={link.href}
+                  className="text-sm font-semibold text-slate-600 hover:text-teal-700"
+                >
+                  {link.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+          <a
+            href="/Anuraj_K_B_Resume.docx"
+            download
+            className="rounded-full bg-teal-700 px-4 py-2 text-sm font-semibold text-white hover:bg-teal-800"
+          >
+            Download Resume
+          </a>
+        </div>
       </nav>
     </header>
   );
