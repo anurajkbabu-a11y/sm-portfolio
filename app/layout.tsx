@@ -17,7 +17,7 @@ const jetbrainsMono = JetBrains_Mono({
   display: "swap",
 });
 
-const SITE_URL = "https://sm-portfolio.vercel.app";
+const SITE_URL = "https://sm-portfolio-hazel.vercel.app";
 
 const title = `${person.name} — Senior Scrum Master | Agile Delivery Lead`;
 const description = hero.subtext;
