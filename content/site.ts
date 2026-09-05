@@ -8,7 +8,7 @@ export const person = {
   credentials: "PMP, CSM",
   location: "Kerala, India",
   relocation: "Open to Relocation — Dubai, UAE",
-  email: "anurajkbn@gmail.com",
+  email: "anurajkbabu@gmail.com",
   phone: "+91 96455 53445",
   phoneHref: "+919645553445",
   linkedin: "https://www.linkedin.com/in/anurajkbalakrishnan",
