@@ -28,7 +28,7 @@ export default function Nav() {
             ))}
           </ul>
           <a
-            href="/Anuraj_K_B_Resume.docx"
+            href="/Anuraj_K_B_Resume1.docx"
             download
             className="rounded-full bg-teal-700 px-4 py-2 text-sm font-semibold text-white hover:bg-teal-800"
           >
