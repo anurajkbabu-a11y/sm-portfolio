@@ -59,7 +59,7 @@ export const experience = [
       "Own risk, assumption, issue, and dependency (RAID) management; proactively remove impediments and blockers to maintain optimal team flow.",
       "Partner with Product Owners and Business Analysts on requirements gathering, backlog grooming, and sprint commitment; maintain delivery roadmaps and JIRA milestone tracking.",
       "Lead Scrum-of-Scrums sessions to manage cross-team dependencies and program alignment, reporting delivery status to senior management forums.",
-      "Coach teams on Agile best practices, CI/CD, automated testing, and design thinking, strengthening engineering maturity and continuous delivery capability.",
+      "Coach teams on Agile best practices, strengthening engineering maturity and continuous delivery capability.",
     ],
   },
   {
@@ -74,7 +74,7 @@ export const experience = [
     ],
   },
   {
-    role: "Project Manager",
+    role: "Scrum Master",
     org: "LID&EW – Government of Kerala",
     dates: "Sep 2019 – May 2022",
     detail:
@@ -82,7 +82,7 @@ export const experience = [
     highlights: [],
   },
   {
-    role: "Manager – Projects (QA & Agile Delivery)",
+    role: "Lead – Projects (QA & Agile Delivery)",
     org: "UST Global",
     dates: "Jan 2018 – Sep 2019",
     detail:
@@ -94,7 +94,7 @@ export const experience = [
     org: "Good Methods Global (now Carestack) · Ernst & Young · Cognizant Technology Solutions",
     dates: "Nov 2009 – Oct 2017",
     detail:
-      "Built the foundation in IT project and program management across testing, delivery governance, and client engagement roles — Lead, Projects (QA) at Cognizant Technology Solutions; Project Lead at Ernst & Young supporting SDLC planning and release readiness; Consultant at Good Methods Global overseeing test planning and delivery.",
+      "Built the foundation in IT project and program management across testing, delivery governance, and client engagement roles — Sr. Associate, Projects (QA) at Cognizant Technology Solutions; Project Lead at Ernst & Young supporting SDLC planning and release readiness; Consultant at Good Methods Global overseeing test planning and delivery.",
     highlights: [],
   },
 ];
