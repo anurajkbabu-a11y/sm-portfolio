@@ -60,6 +60,8 @@ export const experience = [
       "Partner with Product Owners and Business Analysts on requirements gathering, backlog grooming, and sprint commitment; maintain delivery roadmaps and JIRA milestone tracking.",
       "Lead Scrum-of-Scrums sessions to manage cross-team dependencies and program alignment, reporting delivery status to senior management forums.",
       "Coach teams on Agile best practices, strengthening engineering maturity and continuous delivery capability.",
+      "Lead the team handling production support, ensuring incidents are logged and tracked in ServiceNow, and liaising with business stakeholders to resolve developer and QA queries on open incidents.",
+      "Built ServiceNow incident dashboards — including one developed using Claude — to give leadership real-time visibility into incident volume, status, and trends.",
     ],
   },
   {
@@ -146,6 +148,7 @@ export const skillGroups = [
       "Backlog Refinement & Requirements Gathering",
       "Confluence & MS Office Suite",
       "Acceptance Criteria / Definition of Done Governance",
+      "Production Support & Incident Management (ServiceNow)",
     ],
   },
   {
