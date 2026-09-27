@@ -4,7 +4,7 @@
 
 export const person = {
   name: "Anuraj K B",
-  role: "Agile Delivery Lead | Senior Scrum Master | Agile Coach",
+  role: "Agile Delivery Lead | Senior Scrum Master",
   credentials: "PMP, CSM",
   location: "Kerala, India",
   relocation: "Open to Relocation — Dubai, UAE",
@@ -19,7 +19,7 @@ export const hero = {
   headingLine1: "Agile delivery leadership,",
   headingLine2: "augmented by AI agents.",
   subtext:
-    "16+ years of IT program and project delivery experience, including 8+ years driving Agile/Scrum-based delivery and 4+ years in dedicated Scrum Master / Agile Delivery Lead roles. SAFe practitioner with hands-on PI Planning and Release Train Engineer collaboration, delivering financial services digital transformation programs across matrixed, globally distributed teams.",
+    "16+ years of IT project delivery experience, including 8+ years driving Agile/Scrum-based delivery and 4+ years in dedicated Scrum Master / Agile Delivery Lead roles. SAFe practitioner with hands-on PI Planning and Release Train Engineer collaboration, delivering financial services digital transformation programs across matrixed, globally distributed teams.",
   ctaPrimary: { label: "Get in touch", href: "#contact" },
   ctaGhost: { label: "View experience", href: "#experience" },
   factsStrip: [
@@ -34,12 +34,12 @@ export const about = {
   eyebrow: "About",
   heading: "Senior Scrum Master driving Agile and AI-augmented delivery.",
   paragraphs: [
-    "Agile Delivery Lead and Senior Scrum Master with 16+ years of IT program and project delivery experience, including 8+ years driving Agile/Scrum-based delivery and 4+ years in dedicated Scrum Master / Agile Delivery Lead roles. PMP and CSM certified, with a consistent track record of leading end-to-end delivery — spanning vendor-led initiatives, in-house product enhancements, and support releases — across matrixed, multi-team, and globally distributed environments, partnering with Western European and global business stakeholders, including financial services digital transformation programs.",
-    "Strong in sprint planning, backlog management, risk and dependency governance, stakeholder and vendor management, and Agile ceremony facilitation, with solid grounding in SDLC and modern development practices. Practical exposure to SAFe practices — including PI Planning and coordination with Release Train Engineers — alongside Kanban and XP, applying a data-driven approach to monitor team performance and drive continuous improvement across multicultural, globally distributed teams.",
-    "Early adopter of AI-augmented delivery practices, using Claude LLM-based AI agents for project planning, delivery tracking, dynamic executive reporting, and spec-driven initiative generation. Currently pursuing the Leadership with AI program at the Indian School of Business, Hyderabad (expected completion June 2026).",
+    "Agile Delivery Lead and Senior Scrum Master with 16+ years of IT project delivery experience, including 8+ years driving Agile/Scrum-based delivery and 4+ years in dedicated Scrum Master / Agile Delivery Lead roles. PMP and CSM certified, with a consistent track record of leading end-to-end delivery — spanning vendor-led initiatives, in-house product enhancements, and support releases — across matrixed, multi-team, and globally distributed environments, partnering with Western European and global business stakeholders, including financial services digital transformation programs.",
+    "Strong in sprint planning, backlog management, risk and dependency governance, stakeholder management, and Agile ceremony facilitation, with solid grounding in SDLC and modern development practices. Practical exposure to SAFe practices — including PI Planning and coordination with Release Train Engineers — alongside Kanban, applying a data-driven approach to monitor team performance and drive continuous improvement across multicultural, globally distributed teams.",
+    "Early adopter of AI-augmented delivery practices, using Claude LLM-based AI agents for project planning, delivery tracking, dynamic executive reporting, and spec-driven initiative generation. Completed the Leadership with AI program at the Indian School of Business, Hyderabad.",
   ],
   snapshot: [
-    { label: "Business Consultant – Project Management, Allianz", tag: "2024–Present" },
+    { label: "Agile Delivery Lead / Sr. Scrum Master, Allianz", tag: "2024–Present" },
     { label: "PMP — Project Management Professional", tag: "PMI" },
     { label: "CSM — Certified ScrumMaster", tag: "Scrum Alliance" },
     { label: "Leadership with AI", tag: "Indian School of Business, Hyderabad" },
@@ -50,7 +50,7 @@ export const about = {
 
 export const experience = [
   {
-    role: "Business Consultant – Project Management (Agile Delivery Lead / Scrum Master)",
+    role: "Agile Delivery Lead / Sr. Scrum Master",
     org: "Allianz Services India Pvt Ltd",
     dates: "Apr 2024 – Present",
     detail:
@@ -58,20 +58,21 @@ export const experience = [
     highlights: [
       "Own risk, assumption, issue, and dependency (RAID) management; proactively remove impediments and blockers to maintain optimal team flow.",
       "Partner with Product Owners and Business Analysts on requirements gathering, backlog grooming, and sprint commitment; maintain delivery roadmaps and JIRA milestone tracking.",
-      "Lead Scrum-of-Scrums sessions to manage cross-team dependencies and program alignment, reporting delivery status to senior management forums.",
       "Coach teams on Agile best practices, strengthening engineering maturity and continuous delivery capability.",
       "Lead the team handling production support, ensuring incidents are logged and tracked in ServiceNow, and liaising with business stakeholders to resolve developer and QA queries on open incidents.",
       "Built ServiceNow incident dashboards — including one developed using Claude — to give leadership real-time visibility into incident volume, status, and trends.",
     ],
   },
   {
-    role: "Project Manager / Scrum Master",
+    role: "Sr. Scrum Master",
     org: "Indium Software",
     dates: "Dec 2022 – Nov 2023",
     detail:
-      "Facilitated Agile ceremonies and managed end-to-end delivery for cross-functional product teams. Tracked velocity, cycle time, and lead time against quality and performance criteria; coached teams to higher levels of Scrum maturity at a sustainable, comfortable pace.",
+      "Facilitated Agile ceremonies and managed end-to-end delivery for cross-functional product teams. Tracked velocity against quality and performance criteria; coached teams to higher levels of Scrum maturity at a sustainable, comfortable pace.",
     highlights: [
       "Managed risk, issue, and dependency logs; partnered with Product Owners to refine and prioritize the backlog.",
+      "Identified and removed impediments impacting team delivery.",
+      "Coordinated closely with teams and stakeholders to keep delivery aligned.",
       "Drove stakeholder communication, status reporting, and process improvement, improving sprint delivery predictability by ~15%.",
     ],
   },
@@ -96,7 +97,7 @@ export const experience = [
     org: "Good Methods Global (now Carestack) · Ernst & Young · Cognizant Technology Solutions",
     dates: "Nov 2009 – Oct 2017",
     detail:
-      "Built the foundation in IT project and program management across testing, delivery governance, and client engagement roles — Sr. Associate, Projects (QA) at Cognizant Technology Solutions; Project Lead at Ernst & Young supporting SDLC planning and release readiness; Consultant at Good Methods Global overseeing test planning and delivery.",
+      "Built the foundation in IT project and program management across testing, delivery governance, and client engagement roles — Sr. Associate, Projects (QA) at Cognizant Technology Solutions; Project Lead – QA at Ernst & Young supporting SDLC planning and release readiness; QA Lead at Good Methods Global overseeing test planning and delivery.",
     highlights: [],
   },
 ];
@@ -136,39 +137,34 @@ export const skillGroups = [
       "Agile Delivery Leadership (Scrum & Kanban)",
       "Scrum Maturity Coaching & Team Empowerment",
       "Scrum Ceremony Facilitation & Scrum-of-Scrums",
-      "Self-Organizing Team Coaching",
-      "SAFe Practices, PI Planning & RTE Collaboration",
     ],
   },
   {
     title: "Planning & Tools",
     skills: [
       "Sprint Planning, JIRA Roadmaps & Milestone Management",
-      "JIRA & Azure DevOps Administration and Automation",
+      "JIRA Administration and Automation",
       "Backlog Refinement & Requirements Gathering",
       "Confluence & MS Office Suite",
       "Acceptance Criteria / Definition of Done Governance",
-      "Production Support & Incident Management (ServiceNow)",
     ],
   },
   {
     title: "Program & Stakeholder Governance",
     skills: [
       "Risk, Issue & Dependency Management",
-      "Stakeholder & Executive Communication (Western/Global Markets)",
-      "Vendor & Cross-Functional Team Management",
+      "Cross-Functional Team Management",
       "Change Management, Conflict Resolution, Problem-Solving & Resilience",
-      "Financial Services & Digital Transformation Delivery",
+      "Production Support & Incident Management (ServiceNow)",
+      "ServiceNow Dashboard Design & Reporting",
     ],
   },
   {
-    title: "AI, QA & Continuous Improvement",
+    title: "AI & QA Delivery",
     skills: [
       "AI-Driven Delivery Management (Claude LLM Agents)",
-      "RPA & Process Automation (UiPath)",
       "QA Delivery & Test Management",
       "Test Strategy & Release Quality Governance",
-      "Kanban, XP & Data-Driven Continuous Improvement",
     ],
   },
 ];
@@ -189,7 +185,7 @@ export const credentials = {
     {
       program: "Leadership with AI",
       institution: "Indian School of Business, Hyderabad",
-      note: "Expected completion: June 2026" as string | undefined,
+      note: "Completed" as string | undefined,
     },
     {
       program: "Master of Engineering",
