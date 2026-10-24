@@ -19,7 +19,7 @@ export const hero = {
   headingLine1: "Agile delivery leadership,",
   headingLine2: "augmented by AI agents.",
   subtext:
-    "16+ years of IT project delivery experience, including 8+ years driving Agile/Scrum-based delivery and 4+ years in dedicated Scrum Master / Agile Delivery Lead roles. SAFe practitioner with hands-on PI Planning and Release Train Engineer collaboration, delivering financial services digital transformation programs across matrixed, globally distributed teams.",
+    "16+ years of IT project delivery experience, including 8+ years driving Agile/Scrum-based delivery and 4+ years in dedicated Scrum Master / Agile Delivery Lead roles. Facilitate Scrum ceremonies — Sprint Planning, Daily Stand-ups, Sprint Reviews, and Retrospectives — collaborating with Product Owners, Business Analysts, Development, QA, and leadership across SAFe-based, financial services digital transformation programs.",
   ctaPrimary: { label: "Get in touch", href: "#contact" },
   ctaGhost: { label: "View experience", href: "#experience" },
   factsStrip: [
@@ -34,9 +34,9 @@ export const about = {
   eyebrow: "About",
   heading: "Senior Scrum Master driving Agile and AI-augmented delivery.",
   paragraphs: [
-    "Agile Delivery Lead and Senior Scrum Master with 16+ years of IT project delivery experience, including 8+ years driving Agile/Scrum-based delivery and 4+ years in dedicated Scrum Master / Agile Delivery Lead roles. PMP and CSM certified, with a consistent track record of leading end-to-end delivery — spanning vendor-led initiatives, in-house product enhancements, and support releases — across matrixed, multi-team, and globally distributed environments, partnering with Western European and global business stakeholders, including financial services digital transformation programs.",
-    "Strong in sprint planning, backlog management, risk and dependency governance, stakeholder management, and Agile ceremony facilitation, with solid grounding in SDLC and modern development practices. Practical exposure to SAFe practices — including PI Planning and coordination with Release Train Engineers — alongside Kanban, applying a data-driven approach to monitor team performance and drive continuous improvement across multicultural, globally distributed teams.",
-    "Early adopter of AI-augmented delivery practices, using Claude LLM-based AI agents for project planning, delivery tracking, dynamic executive reporting, and spec-driven initiative generation. Completed the Leadership with AI program at the Indian School of Business, Hyderabad.",
+    "Agile Delivery Lead and Senior Scrum Master with 16+ years of IT project delivery experience, including 8+ years driving Agile/Scrum-based delivery and 4+ years in dedicated Scrum Master / Agile Delivery Lead roles. Facilitate Scrum ceremonies — Sprint Planning, Daily Stand-ups, Sprint Reviews, Retrospectives, and Backlog Refinement — and collaborate closely with Product Owners, Business Analysts, Development, QA, and leadership teams to drive end-to-end delivery across matrixed, multi-team, and globally distributed environments, including financial services digital transformation programs.",
+    "PMP and CSM certified; coach teams and stakeholders on Agile principles, Scrum practices, and continuous improvement, removing impediments and managing delivery risks, dependencies, and escalations to keep sprints on track. Track Agile metrics — including velocity, sprint burndown, and team performance — via JIRA dashboards, promoting accountability, transparency, collaboration, and self-organization across multicultural, globally distributed teams.",
+    "Support release planning, backlog prioritization, and enterprise Agile adoption, ensuring adherence to Agile governance, delivery standards, and quality practices — backed by hands-on JIRA and Confluence expertise and practical exposure to SAFe, including PI Planning and coordination with Release Train Engineers. Early adopter of AI-augmented delivery practices, using Claude LLM-based AI agents for project planning, delivery tracking, dynamic executive reporting, and spec-driven initiative generation. Completed the Leadership with AI program at the Indian School of Business, Hyderabad.",
   ],
   snapshot: [
     { label: "Agile Delivery Lead / Sr. Scrum Master, Allianz", tag: "2024–Present" },
@@ -56,9 +56,10 @@ export const experience = [
     detail:
       "Operating as Agile Delivery Lead / Scrum Master on Allianz's financial services digital transformation initiatives — first the Motor Retail application development program, currently Motor Renewals. Facilitate the full Agile ceremony cadence within a SAFe environment, including PI Planning, in close coordination with Release Train Engineers.",
     highlights: [
-      "Own risk, assumption, issue, and dependency (RAID) management; proactively remove impediments and blockers to maintain optimal team flow.",
-      "Partner with Product Owners and Business Analysts on requirements gathering, backlog grooming, and sprint commitment; maintain delivery roadmaps and JIRA milestone tracking.",
-      "Coach teams on Agile best practices, strengthening engineering maturity and continuous delivery capability.",
+      "Own risk, assumption, issue, and dependency (RAID) management; proactively remove impediments, manage delivery risks and dependencies, and handle escalations to maintain optimal team flow.",
+      "Partner with Product Owners, Business Analysts, Development, and QA teams on requirements gathering, backlog grooming, sprint commitment, and backlog prioritization; maintain delivery roadmaps and milestone plans.",
+      "Coach teams and stakeholders on Agile principles, Scrum practices, and continuous improvement, strengthening engineering maturity and delivery capability.",
+      "Track Agile metrics — velocity, sprint burndown, and team performance — via JIRA dashboards, promoting accountability, transparency, and self-organization across the team.",
       "Lead the team handling production support, ensuring incidents are logged and tracked in ServiceNow, and liaising with business stakeholders to resolve developer and QA queries on open incidents.",
       "Built ServiceNow incident dashboards — including one developed using Claude — to give leadership real-time visibility into incident volume, status, and trends.",
     ],
@@ -135,8 +136,9 @@ export const skillGroups = [
     title: "Agile Delivery & Coaching",
     skills: [
       "Agile Delivery Leadership (Scrum & Kanban)",
-      "Scrum Maturity Coaching & Team Empowerment",
-      "Scrum Ceremony Facilitation & Scrum-of-Scrums",
+      "Agile/Scrum Coaching for Teams & Stakeholders",
+      "Scrum Ceremony Facilitation (Sprint Planning, Stand-ups, Reviews, Retrospectives)",
+      "Enterprise Agile Adoption & Transformation Coaching",
     ],
   },
   {
@@ -146,17 +148,17 @@ export const skillGroups = [
       "JIRA Administration and Automation",
       "Backlog Refinement & Requirements Gathering",
       "Confluence & MS Office Suite",
-      "Acceptance Criteria / Definition of Done Governance",
+      "Agile Metrics Tracking (Velocity, Burndown & Sprint Progress)",
     ],
   },
   {
     title: "Program & Stakeholder Governance",
     skills: [
-      "Risk, Issue & Dependency Management",
-      "Cross-Functional Team Management",
+      "Risk, Dependency & Escalation Management",
+      "Cross-Functional Collaboration (Product, BA, Dev, QA, Leadership)",
       "Change Management, Conflict Resolution, Problem-Solving & Resilience",
+      "Agile Governance & Delivery Standards (AC/DoD Compliance)",
       "Production Support & Incident Management (ServiceNow)",
-      "ServiceNow Dashboard Design & Reporting",
     ],
   },
   {
@@ -164,7 +166,8 @@ export const skillGroups = [
     skills: [
       "AI-Driven Delivery Management (Claude LLM Agents)",
       "QA Delivery & Test Management",
-      "Test Strategy & Release Quality Governance",
+      "Release Planning & Quality Governance",
+      "ServiceNow Dashboard Design & Reporting",
     ],
   },
 ];
